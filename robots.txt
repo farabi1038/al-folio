@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://farabi.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://farabi1038.github.io/al-folio/sitemap.xml
