@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://farabi.github.io/sitemap.xml
