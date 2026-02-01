@@ -266,6 +266,15 @@
       ]
     }
   ],
+  "awards": [
+    {
+      "title": "Research Excellence Award",
+      "date": "2025-12-18",
+      "awarder": "Iowa State University",
+      "url": "https://www.parchment.com/u/award/62f5256bd55310a0df1817b81049dbc7",
+      "summary": "Recognized for outstanding research contributions during Ph.D. studies"
+    }
+  ],
   "projects": [
     {
       "name": "AI-Based Navigation Systems for Snowplow Operations",
