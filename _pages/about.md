@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span class="font-weight-bold">Ph.D. in Computer Science</span> | Lecturer at Dallas College
+subtitle: <span class="font-weight-bold">Ph.D. in Computer Science</span> | Applied Scientist II at Amazon
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><i class="fas fa-map-marker-alt"></i> Dallas, Texas</p>
+    <p><i class="fas fa-map-marker-alt"></i> Sunnyvale, California</p>
     <p><i class="fas fa-envelope"></i> ishihab@iastate.edu</p>
 
 news: false

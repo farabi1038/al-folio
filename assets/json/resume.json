@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ibne Farabi Shihab",
-    "label": "Ph.D. in Computer Science | Lecturer at Dallas College",
+    "label": "Ph.D. in Computer Science | Applied Scientist II at Amazon",
     "image": "",
     "email": "ishihab@iastate.edu",
     "phone": "+1-347-571-4757",
@@ -10,9 +10,9 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Dallas",
+      "city": "Sunnyvale",
       "countryCode": "US",
-      "region": "Texas"
+      "region": "California"
     },
     "profiles": [
       {
@@ -34,11 +34,22 @@
   },
   "work": [
     {
+      "name": "Amazon",
+      "position": "Applied Scientist II",
+      "url": "https://www.amazon.com",
+      "startDate": "2026-01-31",
+      "endDate": "",
+      "summary": "Working on agentic bot systems.",
+      "highlights": [
+        "Working on agentic bot systems"
+      ]
+    },
+    {
       "name": "Dallas College",
       "position": "Lecturer",
       "url": "https://www.dallascollege.edu/",
       "startDate": "2025-08-01",
-      "endDate": "",
+      "endDate": "2026-01-15",
       "summary": "Teaching computer science courses with emphasis on practical applications and innovative pedagogy.",
       "highlights": [
         "Developed enhanced curriculum and instructional materials",
