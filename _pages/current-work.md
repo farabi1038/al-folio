@@ -7,6 +7,13 @@ nav: true
 nav_order: 7
 ---
 
+## Current Role
+
+**Applied Scientist II at Amazon** (January 2026 - Present)  
+Working on agentic bot systems.
+
+---
+
 ### Under Review at CVPR 2026
 
 **LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis**  

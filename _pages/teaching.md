@@ -7,17 +7,15 @@ nav: true
 nav_order: 6
 ---
 
-## Current Teaching
+## Teaching Experience
 
-### Dallas College (August 2025 - Present)
+### Dallas College (August 2025 - January 2026)
 
 **Lecturer, Computer Science Department**
 
-Teaching computer science courses with focus on curriculum development, student-centered learning, and active service in departmental committees.
+Taught computer science courses with focus on curriculum development, student-centered learning, and active service in departmental committees.
 
 ---
-
-## Previous Teaching Experience
 
 ### Iowa State University (August 2020 - December 2021)
 
