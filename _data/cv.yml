@@ -46,10 +46,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist II
+      institution: Amazon
+      logo: amazon-logo.png
+      year: 2026 - Present
+      location: Seattle, WA
+      description:
+        - Joined January 2026
+
     - title: Lecturer
       institution: Dallas College
       logo: dallas-college-logo.png
-      year: 2025 - Present
+      year: 2025 - 2026
       location: Dallas, TX
       description:
         - Teaching computer science courses with focus on practical applications
