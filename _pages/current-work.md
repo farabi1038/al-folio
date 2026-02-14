@@ -14,39 +14,64 @@ Working on agentic bot systems.
 
 ---
 
+### Under Review at ICML 2026
+
+**CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2601.07201](https://arxiv.org/abs/2601.07201)
+
+**What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2509.03790](https://arxiv.org/abs/2509.03790)
+
+**Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2509.12527](https://arxiv.org/abs/2509.12527)
+
+**CGRiC: Compositional Risk Certification for Structured LLM Outputs** (with Sanjeda Akter, Anuj Sharma)
+
+**Certificate-Guided Pruning for Stochastic Lipschitz Optimization** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2601.20231](https://arxiv.org/abs/2601.20231)
+
+**Differentiable Range-Partition Entropy for Instance-Optimal Geometric Algorithms** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2509.03733](https://arxiv.org/abs/2509.03733)
+
+---
+
+### Under Review at ACL ARR 2026 (January Submission)
+
+**Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2601.00095](https://arxiv.org/abs/2601.00095)
+
+**Detecting Proxy Gaming in RL and LLM Alignment via Evaluator Stress Tests** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2507.05619](https://arxiv.org/abs/2507.05619)
+
+**Anytime-Valid Answer Sufficiency Certificates for LLM Generation via Sequential Information Lift** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2510.06478](https://arxiv.org/abs/2510.06478)
+
+**Beyond Variance: Knowledge-Aware LLM Compression via Fisher-Aligned Subspace Diagnostics** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2601.07197](https://arxiv.org/abs/2601.07197)
+
+**Causal Consistency Regularization: Training Verifiably Sensitive Reasoning in Large Language Models** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2509.01544](https://arxiv.org/abs/2509.01544)
+
+---
+
 ### Under Review at CVPR 2026
 
-**LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis**  
+**Adaptive Temporal Refinement: Continuous Depth Allocation and Distance Regression for Efficient Action Localization** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2511.03943](https://arxiv.org/abs/2511.03943)
+
+**LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis** (with Sanjeda Akter, Anuj Sharma)  
 [arXiv:2511.08903](https://arxiv.org/abs/2511.08903)
 
 **Temporal Zoom Networks: Distance Regression and Continuous Depth for Efficient Action Localization**  
 [arXiv:2511.03943](https://arxiv.org/abs/2511.03943)
 
----
-
-### Under Review at ICLR 2026
-
-**Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design** (with Sanjeda Akter)  
-[arXiv:2509.12527](https://arxiv.org/abs/2509.12527)
-
-**What Fundamental Structure in Reward Functions Enables Efficient Sparse-Reward Learning?**  
-[arXiv:2509.03790](https://arxiv.org/abs/2509.03790)
-
-**Differentiable Entropy Regularization for Geometry and Neural Networks**  
-[arXiv:2509.03733](https://arxiv.org/abs/2509.03733)
-
-**Counterfactual Reasoning in LLMs** (with Sanjeda Akter)  
-Exploring counterfactual sensitivity for faithful reasoning in large language models.
 
 ---
 
-### Planning for ACL 2026
+### Planning for NeurIPS 2026
 
-**Valid Stopping for LLM Generation via Empirical Dynamic Formal Lift** (with Sanjeda Akter)  
-[arXiv:2510.06478](https://arxiv.org/abs/2510.06478)
-
-**Inducing Faithfulness in Structured Reasoning via Counterfactual Sensitivity** (with Sanjeda Akter)  
-[arXiv:2509.01544](https://arxiv.org/abs/2509.01544)
+**Learning to Forget Attention: Memory Consolidation for Adaptive Compute Reduction** (CRAM)  
+[arXiv:2602.12204](https://arxiv.org/abs/2602.12204)
 
 ---
 
@@ -72,9 +97,6 @@ Exploring counterfactual sensitivity for faithful reasoning in large language mo
 
 ### Preprints
 
-**Detecting and Mitigating Reward Hacking in Reinforcement Learning Systems: A Comprehensive Empirical Study**  
-[arXiv:2507.05619](https://arxiv.org/abs/2507.05619)
-
 **Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges** (with Sanjeda Akter)  
 [arXiv:2507.02074](https://arxiv.org/abs/2507.02074)
 
@@ -96,6 +118,4 @@ Actively seeking collaborations in:
 
 ## Upcoming Presentations
 
-- ECAI 2025
-- EMNLP 2025 (2 papers)
-- IEEE ITSC 2025 (2 papers)
+- None
