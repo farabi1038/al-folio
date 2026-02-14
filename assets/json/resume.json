@@ -168,21 +168,21 @@
   ],
   "publications": [
     {
-      "name": "HMAE: Self‑Supervised Few‑Shot Learning for Quantum Spin Systems",
+      "name": "HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems",
       "publisher": "ECAI 2025",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2505.03140",
       "summary": "Accepted to ECAI 2025"
     },
     {
-      "name": "Efficient Unstructured Pruning of Mamba State–Space Models for Resource‑Constrained Environments",
+      "name": "Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments",
       "publisher": "EMNLP 2025",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2505.08299",
       "summary": "Accepted to EMNLP 2025"
     },
     {
-      "name": "Cache‑Efficient Posterior Sampling for Reinforcement Learning with LLM‑Derived Priors Across Discrete and Continuous Domains",
+      "name": "Cache-Efficient Posterior Sampling for Reinforcement Learning with LLM-Derived Priors Across Discrete and Continuous Domains",
       "publisher": "EMNLP 2025",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2505.07274",
