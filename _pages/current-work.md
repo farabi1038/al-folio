@@ -54,14 +54,13 @@ Working on agentic bot systems.
 
 ---
 
-### Under Review at CVPR 2026
+### Under Review at CVPR 2026 Workshop
 
-**Adaptive Temporal Refinement: Continuous Depth Allocation and Distance Regression for Efficient Action Localization** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2511.03943](https://arxiv.org/abs/2511.03943)
+**Enhancing Traffic Incident Response through Sub-Second Temporal Localization with HybridMamba**  
+[arXiv:2504.03235](https://arxiv.org/abs/2504.03235)
 
 **Temporal Zoom Networks: Distance Regression and Continuous Depth for Efficient Action Localization**  
 [arXiv:2511.03943](https://arxiv.org/abs/2511.03943)
-
 
 ---
 
@@ -100,9 +99,6 @@ Working on agentic bot systems.
 
 **Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems** (with Sanjeda Akter)  
 [arXiv:2506.14096](https://arxiv.org/abs/2506.14096)
-
-**Enhancing Traffic Incident Response through Sub-Second Temporal Localization with HybridMamba**  
-[arXiv:2504.03235](https://arxiv.org/abs/2504.03235)
 
 ---
 
