@@ -168,6 +168,13 @@
   ],
   "publications": [
     {
+      "name": "LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis",
+      "publisher": "CVPR 2026",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2511.08903",
+      "summary": "Accepted to IEEE/CVF CVPR 2026"
+    },
+    {
       "name": "HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems",
       "publisher": "ECAI 2025",
       "releaseDate": "2025",

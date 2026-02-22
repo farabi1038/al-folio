@@ -59,9 +59,6 @@ Working on agentic bot systems.
 **Adaptive Temporal Refinement: Continuous Depth Allocation and Distance Regression for Efficient Action Localization** (with Sanjeda Akter, Anuj Sharma)  
 [arXiv:2511.03943](https://arxiv.org/abs/2511.03943)
 
-**LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2511.08903](https://arxiv.org/abs/2511.08903)
-
 **Temporal Zoom Networks: Distance Regression and Continuous Depth for Efficient Action Localization**  
 [arXiv:2511.03943](https://arxiv.org/abs/2511.03943)
 
