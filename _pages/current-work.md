@@ -70,6 +70,27 @@ Working on agentic bot systems.
 **Learning to Forget Attention: Memory Consolidation for Adaptive Compute Reduction** (CRAM)  
 [arXiv:2602.12204](https://arxiv.org/abs/2602.12204)
 
+**On the Sparsifiability of Correlation Clustering: Approximation Guarantees under Edge Sampling**  
+[arXiv:2602.13684](https://arxiv.org/abs/2602.13684)
+
+**Grassmannian Mixture-of-Experts: Concentration-Controlled Routing on Subspace Manifolds**
+
+---
+
+### Planning for ITSC 2026
+
+**Beyond Accuracy: Random Matrix Theory Diagnostics for Crash Classification Models**
+
+**DEEP-SS: A Deep Reinforcement Learning Approach for Traffic Signal Synchronization**
+
+**Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments**
+
+---
+
+### Planning for EMNLP 2026
+
+**Bayesian Stiefel Manifold Priors for Reliable Parameter-Efficient Fine-Tuning**
+
 ---
 
 ### Under Review at IEEE ITS Transactions

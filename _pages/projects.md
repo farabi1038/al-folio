@@ -67,6 +67,17 @@ Engineered precision soil mapping engine improving accuracy by 35%, with cloud p
 
 ## Collaborative Projects
 
+### Document Layout Analysis with LLM-Guided Fusion
+
+**Accepted to CVPR 2026**
+
+Developed a probabilistic fusion framework guided by Large Language Models for label-efficient document layout analysis, reducing annotation requirements while maintaining high accuracy.
+
+**Collaborators**: Sanjeda Akter, Anuj Sharma  
+**arXiv**: [2511.08903](https://arxiv.org/abs/2511.08903)
+
+---
+
 ### Temporal Action Localization in Video
 
 **Published in CVPR 2024**
