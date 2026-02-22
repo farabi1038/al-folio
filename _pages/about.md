@@ -194,10 +194,10 @@ I am a **Applied Scientist in Amazon** and recently completed my **Ph.D. in Comp
     <div class="card text-center shadow-sm stat-card h-100">
       <div class="card-body">
         <div class="stat-icon"><i class="fas fa-trophy text-warning"></i></div>
-        <h3 class="card-title font-weight-bold">3 Papers</h3>
-        <p class="card-text text-muted">Accepted to ECAI 2025</p>
+        <h3 class="card-title font-weight-bold">4 Papers</h3>
+        <p class="card-text text-muted">CVPR 2026, ECAI 2025</p>
         <p class="card-text text-muted">EMNLP 2025 (2 papers)</p>
-        <span class="badge badge-success mt-2">2025</span>
+        <span class="badge badge-success mt-2">2025-2026</span>
       </div>
     </div>
   </div>
@@ -206,10 +206,22 @@ I am a **Applied Scientist in Amazon** and recently completed my **Ph.D. in Comp
     <div class="card text-center shadow-sm stat-card h-100">
       <div class="card-body">
         <div class="stat-icon"><i class="fas fa-truck-plow text-info"></i></div>
-        <h3 class="card-title font-weight-bold">IoT DOT</h3>
+        <h3 class="card-title font-weight-bold">Iowa DOT</h3>
         <p class="card-text text-muted">Led AI-based snowplow navigation projects</p>
         <p class="card-text text-muted">Crash detection systems</p>
         <span class="badge badge-primary mt-2">Lead Researcher</span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-lg-3 col-md-6 mb-4">
+    <div class="card text-center shadow-sm stat-card h-100">
+      <div class="card-body">
+        <div class="stat-icon"><i class="fab fa-aws text-warning"></i></div>
+        <h3 class="card-title font-weight-bold">Amazon L5</h3>
+        <p class="card-text text-muted">Applied Scientist II</p>
+        <p class="card-text text-muted">Agentic bot systems</p>
+        <span class="badge badge-danger mt-2">2026 - Present</span>
       </div>
     </div>
   </div>
@@ -222,18 +234,6 @@ I am a **Applied Scientist in Amazon** and recently completed my **Ph.D. in Comp
         <p class="card-text text-muted">Developed Knowledge Graph frameworks</p>
         <p class="card-text text-muted">Novel KGE models</p>
         <span class="badge badge-warning mt-2">Internship</span>
-      </div>
-    </div>
-  </div>
-  
-  <div class="col-lg-3 col-md-6 mb-4">
-    <div class="card text-center shadow-sm stat-card h-100">
-      <div class="card-body">
-        <div class="stat-icon"><i class="fas fa-chart-line text-success"></i></div>
-        <h3 class="card-title font-weight-bold">+10%</h3>
-        <p class="card-text text-muted">Accuracy improvement</p>
-        <p class="card-text text-muted">Quantum anomaly detection</p>
-        <span class="badge badge-info mt-2">Innovation</span>
       </div>
     </div>
   </div>
