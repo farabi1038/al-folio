@@ -54,7 +54,7 @@ Working on agentic bot systems.
 
 ---
 
-### Under Review at CVPR 2026 Workshop
+### Under Review at ECCV 2026
 
 **Enhancing Traffic Incident Response through Sub-Second Temporal Localization with HybridMamba**  
 [arXiv:2504.03235](https://arxiv.org/abs/2504.03235)
@@ -72,23 +72,27 @@ Working on agentic bot systems.
 **On the Sparsifiability of Correlation Clustering: Approximation Guarantees under Edge Sampling**  
 [arXiv:2602.13684](https://arxiv.org/abs/2602.13684)
 
-**Grassmannian Mixture-of-Experts: Concentration-Controlled Routing on Subspace Manifolds**
+**Grassmannian Mixture-of-Experts: Concentration-Controlled Routing on Subspace Manifolds**  
+[arXiv:2602.17798](https://arxiv.org/abs/2602.17798)
 
 ---
 
-### Planning for ITSC 2026
+### Under Review at ITSC 2026
 
-**Beyond Accuracy: Random Matrix Theory Diagnostics for Crash Classification Models**
+**A Unified Random Matrix Theory Diagnostic Framework for Crash Classification Models**  
+[arXiv:2602.19528](https://arxiv.org/abs/2602.19528)
 
 **DEEP-SS: A Deep Reinforcement Learning Approach for Traffic Signal Synchronization**
 
-**Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments**
+**Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments**  
+[arXiv:2405.14876](https://arxiv.org/abs/2405.14876)
 
 ---
 
-### Planning for EMNLP 2026
+### Planning for ACL ARR 2026 (May Submission)
 
-**Bayesian Stiefel Manifold Priors for Reliable Parameter-Efficient Fine-Tuning**
+**Calibrated Adaptation: Bayesian Stiefel Manifold Priors for Reliable Parameter-Efficient Fine-Tuning**  
+[arXiv:2602.17809](https://arxiv.org/abs/2602.17809)
 
 ---
 
