@@ -196,7 +196,7 @@ I am a **Applied Scientist in Amazon** and recently completed my **Ph.D. in Comp
         <div class="stat-icon"><i class="fas fa-trophy text-warning"></i></div>
         <h3 class="card-title font-weight-bold">8 Papers</h3>
         <p class="card-text text-muted">CVPR 2026, ACL 2026 (4)</p>
-        <p class="card-text text-muted">ECAI, EMNLP 2025 (3)</p>
+        <p class="card-text text-muted">ECAI, EMNLP 2025 (2)</p>
         <span class="badge badge-success mt-2">2025-2026</span>
       </div>
     </div>
