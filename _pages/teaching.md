@@ -9,6 +9,22 @@ nav_order: 6
 
 ## Teaching Experience
 
+### Iowa State University (January 2025 - May 2025)
+
+**Graduate Teaching Assistant**
+
+Course: COM S 227 — Object-oriented Programming
+
+---
+
+### Iowa State University (January 2024 - May 2024)
+
+**Graduate Teaching Assistant**
+
+Course: COM S 576 — Motion Planning
+
+---
+
 ### Dallas College (August 2025 - January 2026)
 
 **Lecturer, Computer Science Department**

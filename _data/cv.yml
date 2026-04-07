@@ -65,6 +65,22 @@
         - Implemented diverse assessment methods to evaluate student learning
         - Actively serving on departmental and college-wide committees
 
+    - title: Graduate Teaching Assistant
+      institution: Iowa State University
+      logo: iastate-logo.png
+      year: Spring 2025
+      location: Ames, IA
+      description:
+        - TA for COM S 227 — Object-oriented Programming
+
+    - title: Graduate Teaching Assistant
+      institution: Iowa State University
+      logo: iastate-logo.png
+      year: Spring 2024
+      location: Ames, IA
+      description:
+        - TA for COM S 576 — Motion Planning
+
     - title: Applied Scientist Intern
       institution: Amazon
       logo: amazon-logo.png
