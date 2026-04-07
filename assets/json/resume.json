@@ -168,6 +168,34 @@
   ],
   "publications": [
     {
+      "name": "Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning",
+      "publisher": "ACL 2026 Main Conference",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2601.00095",
+      "summary": "Accepted to ACL 2026 Main Conference"
+    },
+    {
+      "name": "Beyond Variance: Knowledge-Aware LLM Compression via Fisher-Aligned Subspace Diagnostics",
+      "publisher": "ACL 2026 Main Conference",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2601.07197",
+      "summary": "Accepted to ACL 2026 Main Conference"
+    },
+    {
+      "name": "Causal Consistency Regularization: Training Verifiably Sensitive Reasoning in Large Language Models",
+      "publisher": "ACL 2026 Main Conference",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2509.01544",
+      "summary": "Accepted to ACL 2026 Main Conference"
+    },
+    {
+      "name": "Detecting Proxy Gaming in RL and LLM Alignment via Evaluator Stress Tests",
+      "publisher": "ACL 2026 Findings",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2507.05619",
+      "summary": "Accepted to ACL 2026 Findings"
+    },
+    {
       "name": "LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis",
       "publisher": "CVPR 2026",
       "releaseDate": "2026",

@@ -35,25 +35,6 @@ Working on agentic bot systems.
 
 ---
 
-### Under Review at ACL ARR 2026 (January Submission)
-
-**Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2601.00095](https://arxiv.org/abs/2601.00095)
-
-**Detecting Proxy Gaming in RL and LLM Alignment via Evaluator Stress Tests** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2507.05619](https://arxiv.org/abs/2507.05619)
-
-**Anytime-Valid Answer Sufficiency Certificates for LLM Generation via Sequential Information Lift** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2510.06478](https://arxiv.org/abs/2510.06478)
-
-**Beyond Variance: Knowledge-Aware LLM Compression via Fisher-Aligned Subspace Diagnostics** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2601.07197](https://arxiv.org/abs/2601.07197)
-
-**Causal Consistency Regularization: Training Verifiably Sensitive Reasoning in Large Language Models** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2509.01544](https://arxiv.org/abs/2509.01544)
-
----
-
 ### Under Review at ECCV 2026
 
 **Enhancing Traffic Incident Response through Sub-Second Temporal Localization with HybridMamba**  
@@ -93,6 +74,9 @@ Working on agentic bot systems.
 
 **Calibrated Adaptation: Bayesian Stiefel Manifold Priors for Reliable Parameter-Efficient Fine-Tuning**  
 [arXiv:2602.17809](https://arxiv.org/abs/2602.17809)
+
+**Anytime-Valid Answer Sufficiency Certificates for LLM Generation via Sequential Information Lift** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2510.06478](https://arxiv.org/abs/2510.06478)
 
 ---
 
