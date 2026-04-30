@@ -14,27 +14,6 @@ Working on agentic bot systems.
 
 ---
 
-### Under Review at ICML 2026
-
-**CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2601.07201](https://arxiv.org/abs/2601.07201)
-
-**What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2509.03790](https://arxiv.org/abs/2509.03790)
-
-**Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2509.12527](https://arxiv.org/abs/2509.12527)
-
-**CGRiC: Compositional Risk Certification for Structured LLM Outputs** (with Sanjeda Akter, Anuj Sharma)
-
-**Certificate-Guided Pruning for Stochastic Lipschitz Optimization** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2601.20231](https://arxiv.org/abs/2601.20231)
-
-**Differentiable Range-Partition Entropy for Instance-Optimal Geometric Algorithms** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2509.03733](https://arxiv.org/abs/2509.03733)
-
----
-
 ### Under Review at ECCV 2026
 
 **Enhancing Traffic Incident Response through Sub-Second Temporal Localization with HybridMamba**  
@@ -98,6 +77,12 @@ Working on agentic bot systems.
 ---
 
 ### Preprints
+
+**Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2509.12527](https://arxiv.org/abs/2509.12527)
+
+**Differentiable Range-Partition Entropy for Instance-Optimal Geometric Algorithms** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2509.03733](https://arxiv.org/abs/2509.03733)
 
 **Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges** (with Sanjeda Akter)  
 [arXiv:2507.02074](https://arxiv.org/abs/2507.02074)

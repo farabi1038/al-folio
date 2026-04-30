@@ -168,6 +168,34 @@
   ],
   "publications": [
     {
+      "name": "CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures",
+      "publisher": "ICML 2026",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2601.07201",
+      "summary": "Accepted to ICML 2026"
+    },
+    {
+      "name": "What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion",
+      "publisher": "ICML 2026",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2509.03790",
+      "summary": "Accepted to ICML 2026"
+    },
+    {
+      "name": "CGRiC: Compositional Risk Certification for Structured LLM Outputs",
+      "publisher": "ICML 2026",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "Accepted to ICML 2026"
+    },
+    {
+      "name": "Certificate-Guided Pruning for Stochastic Lipschitz Optimization",
+      "publisher": "ICML 2026",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2601.20231",
+      "summary": "Accepted to ICML 2026"
+    },
+    {
       "name": "Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning",
       "publisher": "ACL 2026 Main Conference",
       "releaseDate": "2026",
