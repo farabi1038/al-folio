@@ -37,18 +37,6 @@ Working on agentic bot systems.
 
 ---
 
-### Under Review at ITSC 2026
-
-**A Unified Random Matrix Theory Diagnostic Framework for Crash Classification Models**  
-[arXiv:2602.19528](https://arxiv.org/abs/2602.19528)
-
-**DEEP-SS: A Deep Reinforcement Learning Approach for Traffic Signal Synchronization**
-
-**Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments**  
-[arXiv:2405.14876](https://arxiv.org/abs/2405.14876)
-
----
-
 ### Planning for ACL ARR 2026 (May Submission)
 
 **Calibrated Adaptation: Bayesian Stiefel Manifold Priors for Reliable Parameter-Efficient Fine-Tuning**  
@@ -77,6 +65,9 @@ Working on agentic bot systems.
 ---
 
 ### Preprints
+
+**Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments**  
+[arXiv:2405.14876](https://arxiv.org/abs/2405.14876)
 
 **Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design** (with Sanjeda Akter, Anuj Sharma)  
 [arXiv:2509.12527](https://arxiv.org/abs/2509.12527)

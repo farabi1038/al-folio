@@ -194,8 +194,8 @@ I am a **Applied Scientist in Amazon** and recently completed my **Ph.D. in Comp
     <div class="card text-center shadow-sm stat-card h-100">
       <div class="card-body">
         <div class="stat-icon"><i class="fas fa-trophy text-warning"></i></div>
-        <h3 class="card-title font-weight-bold">12 Papers</h3>
-        <p class="card-text text-muted">ICML 2026 (4), CVPR, ACL (4)</p>
+        <h3 class="card-title font-weight-bold">14 Papers</h3>
+        <p class="card-text text-muted">ICML (4), CVPR, ACL (4), ITSC (2)</p>
         <p class="card-text text-muted">ECAI, EMNLP 2025 (2)</p>
         <span class="badge badge-success mt-2">2025-2026</span>
       </div>
