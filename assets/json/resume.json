@@ -224,6 +224,20 @@
       "summary": "Accepted to ACL 2026 Findings"
     },
     {
+      "name": "Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems",
+      "publisher": "IEEE Transactions on Intelligent Transportation Systems",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2506.14096",
+      "summary": "Accepted to IEEE T-ITS (Impact Factor 8.4)"
+    },
+    {
+      "name": "Improving Crash Data Quality by Identifying Misclassified Alcohol-Involved Crashes Using NLP on Narrative Data",
+      "publisher": "Journal of Safety Research",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2506.19342",
+      "summary": "Accepted to Journal of Safety Research (Impact Factor 4.8)"
+    },
+    {
       "name": "Beyond Accuracy: Empirical Spectral Diagnostics for Crash Classification Models",
       "publisher": "IEEE ITSC 2026",
       "releaseDate": "2026",

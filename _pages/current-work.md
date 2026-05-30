@@ -52,16 +52,6 @@ Working on agentic bot systems.
 **Calibrated and Resource-Aware Super-Resolution for Reliable Driver Behavior Analysis**  
 [arXiv:2509.23535](https://arxiv.org/abs/2509.23535)
 
-**Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems** (with Sanjeda Akter)  
-[arXiv:2506.14096](https://arxiv.org/abs/2506.14096)
-
----
-
-### Under Review at Journal of Safety Research
-
-**Unlocking Insights Addressing Alcohol Inference Mismatch through Database-Narrative Alignment** (with Sudesh Bhagat, Raghupathi Kandiboina, Skylar Knickerbocker, Neal Hawkins, and Anuj Sharma)  
-[arXiv:2506.19342](https://arxiv.org/abs/2506.19342)
-
 ---
 
 ### Preprints
