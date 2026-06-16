@@ -35,6 +35,12 @@ Working on agentic bot systems.
 **Grassmannian Mixture-of-Experts: Concentration-Controlled Routing on Subspace Manifolds**  
 [arXiv:2602.17798](https://arxiv.org/abs/2602.17798)
 
+**Auditing Near-Optimal Policies Can Be Exponentially Hard: Conditional Query Lower Bounds via Occupancy Rashomon Capacity** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2606.00414](https://arxiv.org/abs/2606.00414)
+
+**Topology-Aware State Abstraction with Tangle Cores for Markov Decision Processes** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2606.00427](https://arxiv.org/abs/2606.00427)
+
 ---
 
 ### Planning for ACL ARR 2026 (May Submission)
@@ -44,6 +50,18 @@ Working on agentic bot systems.
 
 **Anytime-Valid Answer Sufficiency Certificates for LLM Generation via Sequential Information Lift** (with Sanjeda Akter, Anuj Sharma)  
 [arXiv:2510.06478](https://arxiv.org/abs/2510.06478)
+
+**EST-PRM: Stress-Testing Process Reward Models Before They Become Load-Bearing** (with Fariya Afrin, Sanjeda Akter, Anuj Sharma)  
+[arXiv:2606.00437](https://arxiv.org/abs/2606.00437)
+
+**Grounded Decoding: Retrieval-Anchored Probability Fusion for Faithful RAG** (with Fariya Afrin, Sanjeda Akter, Anuj Sharma)  
+[arXiv:2606.00432](https://arxiv.org/abs/2606.00432)
+
+**Dynamic Proxy-Mixing: Transferring Replay Controllers from Small to Large Models for Continual Instruction Tuning** (with Fariya Afrin, Anuj Sharma)  
+[arXiv:2606.00400](https://arxiv.org/abs/2606.00400)
+
+**Canonicalized Stable-List Replay for Private Federated Continual Learning over Language-Model Embeddings** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, Anuj Sharma)  
+[arXiv:2606.00426](https://arxiv.org/abs/2606.00426)
 
 ---
 
@@ -67,20 +85,6 @@ Working on agentic bot systems.
 
 **Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges** (with Sanjeda Akter)  
 [arXiv:2507.02074](https://arxiv.org/abs/2507.02074)
-
----
-
-## Open to Collaborations
-
-Actively seeking collaborations in:
-
-- Computer Vision for safety-critical applications
-- Large Language Models and novel architectures
-- Reinforcement Learning theory and practice
-- Quantum Machine Learning
-- Transportation AI
-
-**Contact**: ishihab@iastate.edu | [LinkedIn](https://linkedin.com/in/ibne-farabi-shihab-271665bb/)
 
 ---
 
