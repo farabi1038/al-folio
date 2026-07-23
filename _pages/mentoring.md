@@ -4,7 +4,7 @@ permalink: /mentoring/
 title: mentoring
 description: Students and researchers I have had the privilege of mentoring
 nav: true
-nav_order: 8
+nav_order: 9
 ---
 
 ## Mentoring
@@ -169,26 +169,6 @@ I am passionate about mentoring the next generation of researchers , preferrably
             <div class="skill-tags">
               <span class="badge badge-light">LLM Inference</span>
               <span class="badge badge-light">Speculative Decoding</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-6 mb-4">
-    <div class="card shadow-sm hover-card h-100">
-      <div class="card-body">
-        <div class="d-flex align-items-start">
-          <i class="fas fa-user fa-2x text-warning mr-3 mt-1"></i>
-          <div class="flex-grow-1">
-            <h5 class="mb-1">Abdo El Karaky</h5>
-            <p class="text-muted small mb-2">Researcher · Amazon · 2025 – Present</p>
-            <p class="mb-2">Industry collaborator on knowledge graph completion with calibrated LLM priors. Expertise in bot detection, ML inference, and distributed systems.</p>
-            <div class="skill-tags">
-              <span class="badge badge-light">Knowledge Graphs</span>
-              <span class="badge badge-light">Distributed Systems</span>
-              <span class="badge badge-light">ML Inference</span>
             </div>
           </div>
         </div>
