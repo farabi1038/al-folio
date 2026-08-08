@@ -48,7 +48,7 @@ I am a **Applied Scientist in Amazon** and recently completed my **Ph.D. in Comp
       <div class="col-md-4 text-center mb-3">
         <div class="metric-box">
           <i class="fas fa-university fa-3x text-info mb-2"></i>
-          <h4>ICML, CVPR, ACL, EMNLP, ECAI</h4>
+          <h4>ICML, CVPR, ACL, BMVC, EMNLP, ECAI</h4>
           <p class="text-muted">Premier Venues</p>
         </div>
       </div>
@@ -194,8 +194,8 @@ I am a **Applied Scientist in Amazon** and recently completed my **Ph.D. in Comp
     <div class="card text-center shadow-sm stat-card h-100">
       <div class="card-body">
         <div class="stat-icon"><i class="fas fa-trophy text-warning"></i></div>
-        <h3 class="card-title font-weight-bold">16 Papers</h3>
-        <p class="card-text text-muted">ICML (4), CVPR, ACL (4), ITSC (2)</p>
+        <h3 class="card-title font-weight-bold">18 Papers</h3>
+        <p class="card-text text-muted">ICML (4), CVPR, ACL (4), BMVC (2), ITSC (2)</p>
         <p class="card-text text-muted">T-ITS, JSR, ECAI, EMNLP (2)</p>
         <span class="badge badge-success mt-2">2025-2026</span>
       </div>

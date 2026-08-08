@@ -13,6 +13,10 @@
   url: https://cvpr.thecvf.com/
   color: "#b71c1c"
 
+"BMVC":
+  url: https://bmvc2026.org/
+  color: "#1b5e20"
+
 "ITSC":
   url: https://ieee-itsc.org/
   color: "#00369f"

@@ -14,12 +14,12 @@ Working on agentic bot systems.
 
 ---
 
-### Under Review at ECCV 2026
+### Accepted at BMVC 2026
 
-**Enhancing Traffic Incident Response through Sub-Second Temporal Localization with HybridMamba**  
+**HybridMamba: Hierarchical State Space Temporal Encoding for Sub-Second Crash Localization in Surveillance Video**  
 [arXiv:2504.03235](https://arxiv.org/abs/2504.03235)
 
-**Temporal Zoom Networks: Distance Regression and Continuous Depth for Efficient Action Localization**  
+**Boundary Distance Regression and Adaptive Depth Allocation for Temporal Action Localization**  
 [arXiv:2511.03943](https://arxiv.org/abs/2511.03943)
 
 ---
