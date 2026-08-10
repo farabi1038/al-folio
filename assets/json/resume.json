@@ -168,14 +168,14 @@
   ],
   "publications": [
     {
-      "name": "HybridMamba: Hierarchical State Space Temporal Encoding for Sub-Second Crash Localization in Surveillance Video",
+      "name": "Enhancing Traffic Incident Response through Sub-Second Temporal Localization with HybridMamba",
       "publisher": "BMVC 2026",
       "releaseDate": "2026",
       "url": "https://arxiv.org/abs/2504.03235",
       "summary": "Accepted to BMVC 2026"
     },
     {
-      "name": "Boundary Distance Regression and Adaptive Depth Allocation for Temporal Action Localization",
+      "name": "Temporal Zoom Networks: Distance Regression and Continuous Depth for Efficient Action Localization",
       "publisher": "BMVC 2026",
       "releaseDate": "2026",
       "url": "https://arxiv.org/abs/2511.03943",
@@ -221,13 +221,6 @@
       "publisher": "ACL 2026 Main Conference",
       "releaseDate": "2026",
       "url": "https://arxiv.org/abs/2601.07197",
-      "summary": "Accepted to ACL 2026 Main Conference"
-    },
-    {
-      "name": "Causal Consistency Regularization: Training Verifiably Sensitive Reasoning in Large Language Models",
-      "publisher": "ACL 2026 Main Conference",
-      "releaseDate": "2026",
-      "url": "https://arxiv.org/abs/2509.01544",
       "summary": "Accepted to ACL 2026 Main Conference"
     },
     {

@@ -14,76 +14,132 @@ Working on agentic bot systems.
 
 ---
 
-### Accepted at BMVC 2026
+### Under Review at EMNLP 2026
 
-**HybridMamba: Hierarchical State Space Temporal Encoding for Sub-Second Crash Localization in Surveillance Video**  
-[arXiv:2504.03235](https://arxiv.org/abs/2504.03235)
+**Dynamic Proxy-Mixing: Transferring Replay Controllers from Small to Large Models for Continual Instruction Tuning** (with Fariya Afrin, Anuj Sharma)
 
-**Boundary Distance Regression and Adaptive Depth Allocation for Temporal Action Localization**  
-[arXiv:2511.03943](https://arxiv.org/abs/2511.03943)
+**Counterfactual Sensitivity Regularization for Trace-Sensitive Reasoning in Large Language Models** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2509.01544](https://arxiv.org/abs/2509.01544)
 
----
+**Calibration-Preserving Pruning: Compression as a Reliability Contract** (with A. B. Habib, Anuj Sharma)
 
-### Planning for NeurIPS 2026
+**Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2509.12527](https://arxiv.org/abs/2509.12527)
 
-**Learning to Forget Attention: Memory Consolidation for Adaptive Compute Reduction** (CRAM)  
-[arXiv:2602.12204](https://arxiv.org/abs/2602.12204)
+**Spectral-Guided Diffusion: Accelerating Inference via Static Spectral Layer Scheduling** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, Anuj Sharma)
 
-**On the Sparsifiability of Correlation Clustering: Approximation Guarantees under Edge Sampling**  
-[arXiv:2602.13684](https://arxiv.org/abs/2602.13684)
+**Grounded Decoding: Retrieval-Anchored Probability Fusion for Faithful RAG** (with Fariya Afrin, Sanjeda Akter, Anuj Sharma)
 
-**Grassmannian Mixture-of-Experts: Concentration-Controlled Routing on Subspace Manifolds**  
-[arXiv:2602.17798](https://arxiv.org/abs/2602.17798)
+**Canonicalized Stable-List Replay for Private Federated Continual Learning over Language-Model Embeddings** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, Anuj Sharma)
 
-**Auditing Near-Optimal Policies Can Be Exponentially Hard: Conditional Query Lower Bounds via Occupancy Rashomon Capacity** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2606.00414](https://arxiv.org/abs/2606.00414)
+**EST-PRM: Stress-Testing Process Reward Models Before They Become Load-Bearing** (with Fariya Afrin, Sanjeda Akter, Anuj Sharma)
 
-**Topology-Aware State Abstraction with Tangle Cores for Markov Decision Processes** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2606.00427](https://arxiv.org/abs/2606.00427)
-
----
-
-### Planning for ACL ARR 2026 (May Submission)
-
-**Calibrated Adaptation: Bayesian Stiefel Manifold Priors for Reliable Parameter-Efficient Fine-Tuning**  
+**Calibrated Adaptation: Bayesian Stiefel Manifold Priors for Reliable Parameter-Efficient Fine-Tuning** (with Sanjeda Akter, M. M. Hossain, Anuj Sharma)  
 [arXiv:2602.17809](https://arxiv.org/abs/2602.17809)
 
-**Anytime-Valid Answer Sufficiency Certificates for LLM Generation via Sequential Information Lift** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2510.06478](https://arxiv.org/abs/2510.06478)
-
-**EST-PRM: Stress-Testing Process Reward Models Before They Become Load-Bearing** (with Fariya Afrin, Sanjeda Akter, Anuj Sharma)  
-[arXiv:2606.00437](https://arxiv.org/abs/2606.00437)
-
-**Grounded Decoding: Retrieval-Anchored Probability Fusion for Faithful RAG** (with Fariya Afrin, Sanjeda Akter, Anuj Sharma)  
-[arXiv:2606.00432](https://arxiv.org/abs/2606.00432)
-
-**Dynamic Proxy-Mixing: Transferring Replay Controllers from Small to Large Models for Continual Instruction Tuning** (with Fariya Afrin, Anuj Sharma)  
-[arXiv:2606.00400](https://arxiv.org/abs/2606.00400)
-
-**Canonicalized Stable-List Replay for Private Federated Continual Learning over Language-Model Embeddings** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, Anuj Sharma)  
-[arXiv:2606.00426](https://arxiv.org/abs/2606.00426)
+**Spectral DPO: Mitigating Validation Collapse via Heavy-Tailed Regularization** (with Sanjeda Akter, Anuj Sharma)
 
 ---
 
-### Under Review at IEEE ITS Transactions
+### Under Review at NeurIPS 2026
 
-**Calibrated and Resource-Aware Super-Resolution for Reliable Driver Behavior Analysis**  
+**Sparsifying Correlation Clustering: Edge Coresets, Triangle Witnesses, and Observation Lower Bounds** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2602.13684](https://arxiv.org/abs/2602.13684)
+
+**Exclusivity Without Marginal Loss: A Coupled-Rounding Primitive and Full-LP Obstruction for Chromatic Correlation Clustering** (with Sanjeda Akter, Anuj Sharma)
+
+**Topology-Aware State Abstraction with Tangle Cores for Markov Decision Processes** (with Sanjeda Akter, Anuj Sharma)
+
+**Coverage-Based Calibration for Post-Training Quantization via Weighted Maximum Coverage over Outlier Channels** (with Sanjeda Akter, Anuj Sharma)
+
+**Continual Calibration: Coverage Can Collapse Before Accuracy in Lifelong LLM Fine-Tuning** (with Sanjeda Akter, Anuj Sharma)
+
+**Audit-Certified Conformal Routing for Reliable Hybrid Training** (with Sanjeda Akter, Anuj Sharma)
+
+**Differentiable Range-Partition Entropy for Entropy-Sensitive Geometric Algorithms** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2509.03733](https://arxiv.org/abs/2509.03733)
+
+**Concentration-Scaled Grassmannian Routing for Controllable Mixture-of-Experts** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2602.17798](https://arxiv.org/abs/2602.17798)
+
+**Auditing Near-Optimal Policies Can Be Exponentially Hard: Conditional Query Lower Bounds via Occupancy Rashomon Capacity** (with Sanjeda Akter, Anuj Sharma)
+
+**Minimax Round Complexity of Distributed Offline Dynamic Programming: Discounted Locality, Bit-Radius Tradeoffs, and Gossip Baselines** (solo)
+
+---
+
+### Under Review at AAAI 2027
+
+**Tight Online-to-PAC Conversion under Graph-Mixing Dependence** (with Sanjeda Akter, Anuj Sharma)
+
+**Margin Certificates for Voting Classifiers under Mixing Dependence** (with A. B. Habib)
+
+**The Cost of Adaptivity: Matching Lower Bounds Across Learning Problems** (with A. B. Habib)
+
+**Graph Dimensionality Reduction for Contextual Bandits: Pathwise Misspecification Bounds under Noisy Eigenspaces** (with Joyanta J. Mondal)
+
+**Discrepancy-Rounded Fair Bandits with Static and Time-Varying Exposure Floors** (with Joyanta J. Mondal)
+
+**Sub-Quadratic Bisimulation Metrics via Approximate Nearest Neighbors: A Coverage-Augmented Approximation Guarantee** (with Joyanta J. Mondal)
+
+**Certified Predictive Value-of-Advice Gating for Cost-Aware Language-Model Guidance in Reinforcement Learning** (with M. N. Swaqeeb, Abu Sa-Adat Mohamed Moon-Im Al Ahsan)
+
+**Auditing Reinforcement Learning Explanations: Quantifier Frontiers, Strategy Representation, and Verifiable Islands** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, M. N. Swaqeeb)
+
+**Finite Constant Frontiers and Auditable Regret Certificates for Average-Reward Reinforcement Learning** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, M. N. Swaqeeb)
+
+**Adversary-Aligned Error Propagation for Robust Reinforcement Learning under Function Approximation** (with M. N. Swaqeeb, Abu Sa-Adat Mohamed Moon-Im Al Ahsan)
+
+---
+
+### Under Review at NAACL 2027 (ACL Rolling Review, August 2026 Cycle)
+
+**Accuracy Gaps Warn but Do Not Certify: Cross-Domain Recalibration of LLM Judges** (with Fariya Afrin)
+
+**The Accuracy Gap Stratifies Recalibration: When Post-Hoc Calibration of LLM Judges Helps, and When It Backfires** (with Fariya Afrin)
+
+**Evaluator Ensembles Under Reward Hacking: Covariance Geometry and Finite-Search Guarantees** (with Fariya Afrin)
+
+**Quality-Diversity Stress Tests for Process Reward Models: What Archive Coverage Can and Cannot Certify** (with Fariya Afrin)
+
+**Task-Aware Spectral Pruning: A Mixture-of-Masks Framework for Efficient LLM Inference** (with Fariya Afrin, Sanjeda Akter, Anuj Sharma)
+
+**Spectral Tail Interventions in Language Models: Reasoning-Sensitive Weight Structure from Controlled Surgery** (with Sanjeda Akter, M. N. Swaqeeb, Abu Sa-Adat Mohamed Moon-Im Al Ahsan, Anuj Sharma)
+
+**Learning to Forget Attention: Memory Consolidation for Adaptive Compute Reduction** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2602.12204](https://arxiv.org/abs/2602.12204)
+
+**CODS: Iterative Bellman-Residual Data Selection for Reusable Offline Reinforcement Learning** (with Sanjeda Akter, Abu Sa-Adat Mohamed Moon-Im Al Ahsan, M. N. Swaqeeb, Anuj Sharma)
+
+**BLADE: Distilled LLM Regularization for Calibrated Knowledge Graph Completion** (with R. B. Tamanna, A. El Karaky, Sanjeda Akter, Anuj Sharma)
+
+**Anytime-Valid Skeleton-Relative Lift Certificates for LLM Generation Stopping** (with Sanjeda Akter, Anuj Sharma)  
+[arXiv:2510.06478](https://arxiv.org/abs/2510.06478)
+
+**Stateful CARS: Exact Adaptive Sampling for Policy-Constrained LLM Agents** (with M. N. Swaqeeb, Abu Sa-Adat Mohamed Moon-Im Al Ahsan)
+
+**Private Anytime Selective-Risk Certification for Federated Retrieval-Augmented Generation: Guarantees and Empirical Limits** (with Sanjeda Akter, Anuj Sharma)
+
+**FlowNeg: GFlowNet-Guided Diverse Hard Negative Sampling for Knowledge Graph Embedding** (with N. A. Hridi, Joyanta J. Mondal)
+
+**Opportunity Is Not Realizability: Selection-Valid Diagnostics for Multi-LLM Routing** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, M. N. Swaqeeb)
+
+**StepCOPS: Closed-Testing Lower-Tail Certificates for Language-Model Policy Selection** (with Sanjeda Akter, Anuj Sharma)
+
+**When Is Benchmark Contamination Detectable? Information Limits and Power-Calibrated Audits** (with Sanjeda Akter, Anuj Sharma)
+
+---
+
+### Under Review at IEEE T-ITS
+
+**Calibrated and Resource-Aware Super-Resolution for Reliable Driver Behavior Analysis** (with Sanjeda Akter, Anuj Sharma)  
 [arXiv:2509.23535](https://arxiv.org/abs/2509.23535)
 
 ---
 
 ### Preprints
 
-**Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments**  
-[arXiv:2405.14876](https://arxiv.org/abs/2405.14876)
-
-**Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2509.12527](https://arxiv.org/abs/2509.12527)
-
-**Differentiable Range-Partition Entropy for Instance-Optimal Geometric Algorithms** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2509.03733](https://arxiv.org/abs/2509.03733)
-
-**Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges** (with Sanjeda Akter)  
+**Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges** (with Sanjeda Akter, Anuj Sharma)  
 [arXiv:2507.02074](https://arxiv.org/abs/2507.02074)
 
 ---
