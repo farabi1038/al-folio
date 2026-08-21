@@ -14,33 +14,6 @@ Working on agentic bot systems.
 
 ---
 
-### Under Review at EMNLP 2026
-
-**Dynamic Proxy-Mixing: Transferring Replay Controllers from Small to Large Models for Continual Instruction Tuning** (with Fariya Afrin, Anuj Sharma)
-
-**Counterfactual Sensitivity Regularization for Trace-Sensitive Reasoning in Large Language Models** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2509.01544](https://arxiv.org/abs/2509.01544)
-
-**Calibration-Preserving Pruning: Compression as a Reliability Contract** (with A. B. Habib, Anuj Sharma)
-
-**Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design** (with Sanjeda Akter, Anuj Sharma)  
-[arXiv:2509.12527](https://arxiv.org/abs/2509.12527)
-
-**Spectral-Guided Diffusion: Accelerating Inference via Static Spectral Layer Scheduling** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, Anuj Sharma)
-
-**Grounded Decoding: Retrieval-Anchored Probability Fusion for Faithful RAG** (with Fariya Afrin, Sanjeda Akter, Anuj Sharma)
-
-**Canonicalized Stable-List Replay for Private Federated Continual Learning over Language-Model Embeddings** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, Anuj Sharma)
-
-**EST-PRM: Stress-Testing Process Reward Models Before They Become Load-Bearing** (with Fariya Afrin, Sanjeda Akter, Anuj Sharma)
-
-**Calibrated Adaptation: Bayesian Stiefel Manifold Priors for Reliable Parameter-Efficient Fine-Tuning** (with Sanjeda Akter, M. M. Hossain, Anuj Sharma)  
-[arXiv:2602.17809](https://arxiv.org/abs/2602.17809)
-
-**Spectral DPO: Mitigating Validation Collapse via Heavy-Tailed Regularization** (with Sanjeda Akter, Anuj Sharma)
-
----
-
 ### Under Review at NeurIPS 2026
 
 **Sparsifying Correlation Clustering: Edge Coresets, Triangle Witnesses, and Observation Lower Bounds** (with Sanjeda Akter, Anuj Sharma)  
@@ -92,7 +65,21 @@ Working on agentic bot systems.
 
 ---
 
-### Under Review at NAACL 2027 (ACL Rolling Review, August 2026 Cycle)
+### Planned for / Under Review at NAACL 2027 (ACL Rolling Review, August 2026 Cycle)
+
+**Dynamic Proxy-Mixing: Transferring Replay Controllers from Small to Large Models for Continual Instruction Tuning** (with Fariya Afrin, Anuj Sharma)
+
+**Calibration-Preserving Pruning: Compression as a Reliability Contract** (with A. B. Habib, Anuj Sharma)
+
+**Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design** (with Sanjeda Akter, Anuj Sharma)<br>
+[arXiv:2509.12527](https://arxiv.org/abs/2509.12527)
+
+**Spectral-Guided Diffusion: Accelerating Inference via Static Spectral Layer Scheduling** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, Anuj Sharma)
+
+**Canonicalized Stable-List Replay for Private Federated Continual Learning over Language-Model Embeddings** (with Abu Sa-Adat Mohamed Moon-Im Al Ahsan, Anuj Sharma)
+
+**Calibrated Adaptation: Bayesian Stiefel Manifold Priors for Reliable Parameter-Efficient Fine-Tuning** (with Sanjeda Akter, M. M. Hossain, Anuj Sharma)<br>
+[arXiv:2602.17809](https://arxiv.org/abs/2602.17809)
 
 **Accuracy Gaps Warn but Do Not Certify: Cross-Domain Recalibration of LLM Judges** (with Fariya Afrin)
 
