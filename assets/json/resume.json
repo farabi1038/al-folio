@@ -168,6 +168,34 @@
   ],
   "publications": [
     {
+      "name": "EST-PRM: Stress-Testing Process Reward Models Before They Become Load-Bearing",
+      "publisher": "EMNLP 2026 Main Conference",
+      "releaseDate": "2026",
+      "url": "https://lnkd.in/gkaUrrfc",
+      "summary": "Accepted to EMNLP 2026 Main Conference"
+    },
+    {
+      "name": "Spectral DPO: Mitigating Validation Collapse via Heavy-Tailed Regularization",
+      "publisher": "EMNLP 2026 Main Conference",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "Accepted to EMNLP 2026 Main Conference"
+    },
+    {
+      "name": "Counterfactual Sensitivity Regularization for Trace-Sensitive Reasoning in Large Language Models",
+      "publisher": "Findings of EMNLP 2026",
+      "releaseDate": "2026",
+      "url": "https://lnkd.in/gn5niU-A",
+      "summary": "Accepted to Findings of EMNLP 2026"
+    },
+    {
+      "name": "Grounded Decoding: Retrieval-Anchored Probability Fusion for Faithful RAG",
+      "publisher": "Findings of EMNLP 2026",
+      "releaseDate": "2026",
+      "url": "https://lnkd.in/gFiuDJ-A",
+      "summary": "Accepted to Findings of EMNLP 2026"
+    },
+    {
       "name": "Enhancing Traffic Incident Response through Sub-Second Temporal Localization with HybridMamba",
       "publisher": "BMVC 2026",
       "releaseDate": "2026",
